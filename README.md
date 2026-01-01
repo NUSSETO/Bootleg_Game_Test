@@ -1,6 +1,6 @@
 # Bootleg Game Test
 
-A simple 2D Roguelike Shooter built with [Kaboom.js](https://kaboomjs.com/).
+A simple 2D Roguelike Shooter built with [Kaboom.js](https://kaboomjs.com/). This game is just a test to develop a game using only Antigravity. The original game is "Seraph's Last Stand".
 
 ## Features
 - **Wizard Player**: Move with Arrow Keys, Jump with Space.
@@ -21,3 +21,6 @@ Simply open `index.html` in your browser. No build step required!
 
 ## Assets
 Assets are generated via Python scripts (`convert_to_b64.py`, `generate_sounds.py`) and embedded directly into the JS files for a single-file-like experience (aside from the split JS files).
+
+## Credits
+Jason Huang
